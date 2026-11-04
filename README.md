@@ -1,6 +1,6 @@
-<!-- Divesh Agarwal · GitHub profile · v2026.11.04.02 -->
+<!-- Divesh Agarwal · GitHub profile · v2026.11.04.03 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,55:4f46e5,100:db2777&text=Divesh%20Agarwal&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Engineer%20%E2%9A%A1%20%C2%B7%20Author%20%F0%9F%93%9A%20%C2%B7%20Founder%20%40%20SoLifeIN%20%26%20Rozwala%20%F0%9F%9A%80&descAlignY=58&descSize=18&animation=fadeIn" alt="Divesh Agarwal" />
+  <img src="./assets/banner.svg" width="100%" alt="Divesh Agarwal — Engineer · Author · Founder @ SoLifeIN &amp; Rozwala" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ### 👋 About me
 
 - ⚡ **Electrical engineer turned builder** — B.Tech EE (AKTU, 2018), now writing code every day.
-- 🚀 **Co-founder of [SoLifeIN](https://solifein.com)** — brands, Shopify stores, content and ads for Indian D2C brands.
+- 🚀 **Founder of [SoLifeIN](https://solifein.com)** — brands, Shopify stores, content and ads for Indian D2C brands.
 - 🛍️ **Founder of [Rozwala](https://rozwala.com)** — books, clothing, ayurvedic wellness and perfumes, delivered across India.
 - 📚 **Author** of *Trust In Love* (2019) and *Why Her?* (2022) — more books on the way.
 - 🏋️ Fitness, travel and Indian heritage keep me curious.
@@ -93,4 +93,4 @@ Every track gets its own public repo, MIT-licensed, so anyone can learn from it 
   <i>“Commit every day. Ship every week. Write every month.”</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:db2777,50:4f46e5,100:0f172a&section=footer" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="footer" />
