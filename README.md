@@ -64,7 +64,7 @@ Every track gets its own public repo, MIT-licensed, so anyone can learn from it 
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=idiveshagarwal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idiveshagarwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
+  <img height="165" src="./assets/languages.svg" alt="most-used languages" />
 </p>
 
 <p align="center">
